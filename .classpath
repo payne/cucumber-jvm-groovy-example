@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src/main/java"/>
-	<classpathentry kind="src" path="src/test/groovy"/>
-	<classpathentry kind="src" path="src/test/java"/>
-	<classpathentry kind="src" path="src/test/resources"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
-	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/groovy"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="/Users/mpayne/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.2.1/5d4c06bea2b086d18d19d1f2a3e8f18acbfe0e9e/groovy-all-2.2.1-sources.jar" kind="lib" path="/Users/mpayne/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.2.1/7ae565d50d24167c4e5d74b96f4126d4c56f16f/groovy-all-2.2.1.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/mpayne/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar" kind="lib" path="/Users/mpayne/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-junit/1.1.5/4ad8a76cc2700a1fb2c502cac531fde450d031e2/cucumber-junit-1.1.5-sources.jar" kind="lib" path="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-junit/1.1.5/c855ba6ff533fd9066bc626e1c9a3cfc467a8ff6/cucumber-junit-1.1.5.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-groovy/1.1.5/32c1984cfdb143219efd121a13ef444f22cece9f/cucumber-groovy-1.1.5-sources.jar" kind="lib" path="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-groovy/1.1.5/26e4de218c15fbe3989dc49e247fb8c54e68016e/cucumber-groovy-1.1.5.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/mpayne/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="/Users/mpayne/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-jvm-deps/1.0.3/87b05affa19061ce6ff8e2fa20fa86741570b094/cucumber-jvm-deps-1.0.3-sources.jar" kind="lib" path="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-jvm-deps/1.0.3/cccdeff234db8b12e91ae2529812f1240b4d5603/cucumber-jvm-deps-1.0.3.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/gherkin/2.12.1/2306b34b067f2dad95be41570080abef3c78d0b9/gherkin-2.12.1-sources.jar" kind="lib" path="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/gherkin/2.12.1/90e5176962f64d0e183fd2bf8f3a191decb01ff2/gherkin-2.12.1.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-html/0.2.3/27705993aec49a6d4c9210158e3c570ebffa3d0a/cucumber-html-0.2.3-sources.jar" kind="lib" path="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-html/0.2.3/624a0c986088e32910336dd77aee5191c04a8201/cucumber-html-0.2.3.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.1.5/a9cc151891865113339920f4414e8f098124f5fd/cucumber-core-1.1.5-sources.jar" kind="lib" path="/Users/mpayne/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.1.5/1fe72c294ef028c6dd6b5137e86e29c6e80de38a/cucumber-core-1.1.5.jar" exported="true"/>
 </classpath>
